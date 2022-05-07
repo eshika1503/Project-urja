@@ -37,7 +37,7 @@ The dataset has 14 attributes:
 - `app.py`: Flask API that bind between the classification model and the web page. 
 - templates:
 	- `Heart Disease Classifier.html`: a web page that contains a form for heart disease testing. 
-(https://user-images.githubusercontent.com/77397654/167256411-798ceafa-7e51-4689-8e5e-caee289d290d.png)
+
 
 	
 
